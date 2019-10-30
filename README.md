@@ -1,6 +1,6 @@
 # RSilva
 
-# Desafio Engenheiro de Dados - Resolução
+# Semantix - Desafio Engenheiro de Dados - Resolução
 
 # Referências
 **https://spark.apache.org/docs/2.1.0/api/python/pyspark.sql.html**
